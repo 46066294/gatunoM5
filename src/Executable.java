@@ -1,7 +1,12 @@
+import Objectes.GatPelutx;
+import Objectes.GatPersa;
+import Objectes.GatPorcellana;
+import Objectes.GatSiames;
+
 /**Mostra per pantalla el tipus de gat
  * i les seves caracteristiques de caminar
  * i miolar.
- * Created by 46066294p on 01/03/16.
+ * Created by Marc Cano i Moises Villaverde on 01/03/16.
  */
 public class Executable {
     public static void main(String[] args) {

@@ -1,6 +1,8 @@
+package interficiesCaractGato;
+
 /**Propietat de caminar aplicada a un objecte
  *
- * Created by 46066294p on 01/03/16.
+ * Created by Marc Cano i Moises Villaverde on 01/03/16.
  */
 public interface Caminable {
 

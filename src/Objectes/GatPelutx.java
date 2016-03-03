@@ -1,9 +1,11 @@
+package Objectes;
+
 /**Representa un objecte
  * gat de pelutx.
  *
- * Created by 46066294p on 01/03/16.
+ * Created by Marc Cano i Moises Villaverde on 01/03/16.
  */
-public class GatPelutx extends Gat{
+public class GatPelutx extends Gat {
 
     @Override
     public void mostra() {
