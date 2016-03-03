@@ -1,11 +1,13 @@
-/**
+/**Representa un objecte
+ * gat de pelutx.
+ *
  * Created by 46066294p on 01/03/16.
  */
 public class GatPelutx extends Gat{
 
     @Override
     public void mostra() {
-        System.out.println("Soc un gat de pelutx");
+        System.out.println("\nSoc un gat de pelutx");
     }
 
     @Override
@@ -15,6 +17,6 @@ public class GatPelutx extends Gat{
 
     @Override
     public void miau() {
-        SenseMiau senseMiau = new SenseMiau();
+        MiauMetalic miauMetalic = new MiauMetalic();
     }
 }

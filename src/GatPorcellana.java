@@ -1,11 +1,13 @@
-/**
+/**Representa un objecte
+ * gat de porcellana.
+ *
  * Created by 46066294p on 01/03/16.
  */
 public class GatPorcellana extends Gat{
 
     @Override
     public void mostra() {
-        System.out.println("Soc un gat de porcellana");
+        System.out.println("\nSoc un gat de porcellana");
     }
 
     @Override

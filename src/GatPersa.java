@@ -1,4 +1,5 @@
-/**
+/**Representa un objecte
+ * gat persa.
  * Created by 46066294p on 01/03/16.
  */
 public class GatPersa extends Gat{
@@ -6,7 +7,7 @@ public class GatPersa extends Gat{
 
     @Override
     public void mostra() {
-        System.out.println("Soc un gat persa");
+        System.out.println("\nSoc un gat persa");
     }
 
     @Override

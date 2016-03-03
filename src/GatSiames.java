@@ -1,4 +1,6 @@
-/**
+/**Representa un objecte
+ * gat de siames.
+ *
  * Created by 46066294p on 01/03/16.
  */
 public class GatSiames extends Gat{
@@ -6,7 +8,7 @@ public class GatSiames extends Gat{
 
     @Override
     public void mostra() {
-        System.out.println("Soc un gat siames");
+        System.out.println("\nSoc un gat siames");
     }
 
     @Override
