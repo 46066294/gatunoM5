@@ -4,5 +4,28 @@
 public class Executable {
     public static void main(String[] args) {
 
+        GatPelutx gatPelutx = new GatPelutx();
+        gatPelutx.mostra();
+        gatPelutx.caminar();
+        gatPelutx.miau();
+
+
+        GatPersa gatPersa = new GatPersa();
+        gatPersa.mostra();
+        gatPersa.caminar();
+        gatPersa.miau();
+
+
+        GatPorcellana gatPorcellana = new GatPorcellana();
+        gatPorcellana.mostra();
+        gatPorcellana.caminar();
+        gatPorcellana.miau();
+
+
+        GatSiames gatSiames = new GatSiames();
+        gatSiames.mostra();
+        gatSiames.caminar();
+        gatSiames.miau();
+
     }
 }

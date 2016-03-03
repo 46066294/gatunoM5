@@ -10,12 +10,11 @@ public class GatPelutx extends Gat{
 
     @Override
     public void caminar() {
-        System.out.println("...no que camino");
+        System.out.println("...no camino");
     }
 
     @Override
     public void miau() {
         SenseMiau senseMiau = new SenseMiau();
-        System.out.println();
     }
 }

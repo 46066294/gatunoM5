@@ -3,17 +3,20 @@
  */
 public class GatPersa extends Gat{
 
-    public GatPersa() {
-        MiauNormal miauNormal = new MiauNormal();
-    }
-
-
-    public void miau(){
-
-    }
 
     @Override
     public void mostra() {
+        System.out.println("Soc un gat persa");
+    }
 
+    @Override
+    public void caminar() {
+        System.out.println("...si que camino");
+    }
+
+    @Override
+    public void miau() {
+        MiauNormal miauNormal = new MiauNormal();
     }
 }
+

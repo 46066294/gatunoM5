@@ -4,5 +4,6 @@
 public class MiauMetalic {
 
     public MiauMetalic() {
+        System.out.println("...fa miau METAL·LIC");
     }
 }

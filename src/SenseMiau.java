@@ -4,5 +4,6 @@
 public class SenseMiau {
 
     public SenseMiau() {
+        System.out.println("...no fa miau");
     }
 }
